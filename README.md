@@ -4,8 +4,8 @@ Team Members: Siyuan Lu, Qifu Yin, Boyuan Sun
 
 Date: May 2, 2017
 
-1. Introduction
-------------------
+1.Introduction
+----------------
 Welcome to Musicpedia! This program constructs the encyclopedia for musics.
 It takes a song as input and print out the details of its various musical 
 features. The musical features we deal with in this program including: 
@@ -17,8 +17,8 @@ music strength distribution by its left/right channel respectively.
 You can either execute main.m to run the main program or try out
 our user interface by executing gui.m (for details, see 2. Way of Execution)
 
-2. Way of Execution
----------------------
+2.Ways of Execution
+--------------------
 (1) Main Program
 
 	A. Open the Codes Folder -> main.m and run the program in Matlab
@@ -43,8 +43,8 @@ our user interface by executing gui.m (for details, see 2. Way of Execution)
 	C. Click on the “run” button, then everything about the music will
 	display, including the two plots of music distribution, ENJOY!
 
-3. Structure of program and miscellaneous
--------------------------------------------
+3.Structure of program and miscellaneous
+-----------------------
 A. Main functions/Interfaces
 main.m
 gui.m (supported by gui.fig)
@@ -79,8 +79,8 @@ findtone.m
 tone2key.m:
 	for main tone and key signature
 
-4. Other Notices
--------------------
+4.Other Notices
+-----------------
 (1) The GUI runs slightly different from the main program in the min/max points
 part that main program prints out the locations of first ten points and the 
 number of the rest of points, while GUI shows just the total number of points.
