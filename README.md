@@ -89,3 +89,4 @@ number of the rest of points, while GUI shows just the total number of points.
 (i.e. piano songs). It’s normal if the result differs by a half step from the
 actual key when it comes to a song that has complicated melodies (i.e. piano, 
 percussions, violin… everything together) or a song produced many years ago
+
